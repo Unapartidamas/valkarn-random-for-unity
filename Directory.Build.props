@@ -1,0 +1,11 @@
+<Project>
+  <!--
+    Redirect dotnet build output to bin~/obj~ so Unity ignores them.
+    Unity skips any directory ending with '~'.
+  -->
+  <PropertyGroup>
+    <BaseOutputPath>bin~</BaseOutputPath>
+    <BaseIntermediateOutputPath>obj~</BaseIntermediateOutputPath>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>

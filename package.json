@@ -1,0 +1,30 @@
+{
+    "name": "com.unapartidamas.valkarn.random",
+    "version": "0.1.0",
+    "displayName": "Valkarn Random for Unity",
+    "description": "High-performance deterministic PRNG library for Unity. PCG32, xoshiro256**, Philox counter-based, position noise, distributions, weighted selection, fairness systems. Zero-allocation, Burst-compatible, IL2CPP-optimized.",
+    "unity": "2023.1",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unapartidamas/valkarn-random.git"
+    },
+    "documentationUrl": "https://github.com/unapartidamas/valkarn-random#readme",
+    "changelogUrl": "https://github.com/unapartidamas/valkarn-random/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/unapartidamas/valkarn-random/blob/main/LICENSE.md",
+    "author": {
+        "name": "Una Partida Mas",
+        "url": "https://github.com/unapartidamas"
+    },
+    "keywords": [
+        "random",
+        "prng",
+        "pcg",
+        "deterministic",
+        "noise",
+        "shuffle",
+        "weighted",
+        "burst"
+    ],
+    "category": "Scripting"
+}

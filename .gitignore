@@ -1,0 +1,20 @@
+# Unity tilde directories (build output, verification tools)
+*~/
+
+# IDE
+.vs/
+.idea/
+*.csproj.user
+*.sln
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Unity Library (if used as embedded package in a project)
+Library/
+Temp/
+Logs/
+Build/
+Builds/
+obj/
