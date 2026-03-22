@@ -1,6 +1,6 @@
 {
     "name": "com.unapartidamas.valkarn.random",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "displayName": "Valkarn Random for Unity",
     "description": "High-performance deterministic PRNG library for Unity. PCG32, xoshiro256**, Philox counter-based, position noise, distributions, weighted selection, fairness systems. Zero-allocation, Burst-compatible, IL2CPP-optimized.",
     "unity": "2023.1",
